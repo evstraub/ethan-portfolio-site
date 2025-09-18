@@ -4,8 +4,9 @@ type Project = {
   title: string
   summary: string
   slug: string
-  tags: string[]
+  tags: readonly string[] 
 }
+
 
 export default function ProjectCard({ project }: { project: Project }) {
   return (
