@@ -4,6 +4,6 @@ const projects = [
   { title: 'Parcel Explorer', slug: 'parcel-explorer', summary: 'Mapbox + React app with hover, click, and sidebar details.', tags: ['React'] },
   { title: 'Survival Slice', slug: 'survival-slice', summary: 'Godot top-down micro-slice with patrol/chase AI.', tags: ['Game'] },
   { title: 'RAG Mini-Stack', slug: 'rag-mini', summary: 'FastAPI + embeddings + simple retrieval demo.', tags: ['AI'] }
-] as const
+]
 
 export default projects
