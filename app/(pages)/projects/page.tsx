@@ -1,5 +1,5 @@
-import ProjectCard from '../../../components/ProjectCard'
-import projects from '../../../lib/projects'
+import ProjectCard from '@/components/ProjectCard'
+import projects from '@/lib/projects'
 
 
 export default function Page() {

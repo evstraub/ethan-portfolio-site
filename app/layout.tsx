@@ -15,10 +15,10 @@ export const metadata: Metadata = {
     title: 'Ethan Straub — Portfolio',
     description: 'React, C++, Game Dev, and AI projects.',
     type: 'website',
-    url: 'https://your-domain.com',
+    url: 'https://ethan-portfolio-site.vercel.app',
     images: [{ url: '/og.png', width: 1200, height: 630, alt: 'Ethan Portfolio' }]
   },
-  metadataBase: new URL('https://your-domain.com'),
+  metadataBase: new URL('https://ethan-portfolio-site.vercel.app'),
   twitter: {
     card: 'summary_large_image',
     title: 'Ethan Straub — Portfolio',
