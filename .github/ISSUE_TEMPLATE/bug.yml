@@ -1,0 +1,13 @@
+name: Bug report
+description: File a bug
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+  - type: input
+    attributes:
+      label: URL / route
